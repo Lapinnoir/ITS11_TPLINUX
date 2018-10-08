@@ -7,7 +7,7 @@ Si votre script est moche alors vous aurez 0
 
 # Votre script doit être beau :
 
--Faites une fenêtre contenant : 
+- Faites une fenêtre contenant : 
 
   Votre nom
   
