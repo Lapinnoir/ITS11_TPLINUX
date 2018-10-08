@@ -7,17 +7,17 @@ Si votre script est moche alors vous aurez 0
 
 # Votre script doit être beau :
 
-- Faites une fenêtre contenant : 
+Faites une fenêtre contenant : 
 
-  Votre nom
+  - Votre nom
   
-  Votre prénom
+  - Votre prénom
   
-  La date de création du script
+  - La date de création du script
   
-  l'environnement où le script fonctionne
+  - L'environnement où le script fonctionne
   
-  votre contact
+  - Votre contact
   
   
   Sur chaque execution fait connaitre le résultat ex: useradd JimMorrison && echo " création du soldat76"
